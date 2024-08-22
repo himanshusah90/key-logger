@@ -1,0 +1,8 @@
+2024-08-22 15:31:33,879: This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+2024-08-22 15:32:13,323: This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+2024-08-22 15:32:21,401: 'h'
+2024-08-22 15:32:21,607: 'e'
+2024-08-22 15:32:21,849: 'l'
+2024-08-22 15:32:21,998: 'l'
+2024-08-22 15:32:22,181: 'o'
+2024-08-22 15:32:22,687: Key.enter
